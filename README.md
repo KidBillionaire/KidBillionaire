@@ -17,6 +17,7 @@
 ### 🔥 Active Projects
 
 - **[OutreachOS](https://github.com/ReplyPro-ai/outreachOS)** - Multi-tenant AI-powered email automation with Smartlead integration
+
   - Next.js 14 + FastAPI + PostgreSQL
   - 6-stage AI processing pipeline
   - Real-time analytics & campaign management
@@ -42,6 +43,16 @@ Tools:     Docker • Vercel • Supabase • GitHub Actions
 - 🤖 **AI Integration** - Making AI actually useful in real products
 - 📧 **Outreach Automation** - Scaling personalized communication
 - 🏗️ **Multi-Tenant Systems** - Enterprise architecture that scales
+
+---
+
+## 🎵 Currently Vibing To
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=22ad07e492bd40e5902092cfbee0a0b1&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22ad07e492bd40e5902092cfbee0a0b1&redirect=true)
+
+</div>
 
 ---
 
