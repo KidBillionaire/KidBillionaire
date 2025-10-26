@@ -46,16 +46,6 @@ Tools:     Docker • Vercel • Supabase • GitHub Actions
 
 ---
 
-## 🎵 Currently Vibing To
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=22ad07e492bd40e5902092cfbee0a0b1&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22ad07e492bd40e5902092cfbee0a0b1&redirect=true)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
